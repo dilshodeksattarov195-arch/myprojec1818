@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productcave",
+        "uuid": 3534192,
+        "checksum": "bruch"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
